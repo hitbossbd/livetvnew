@@ -8,7 +8,7 @@ android {
     compileSdk 34
 //    buildToolsVersion "31.0.0"
     defaultConfig {
-        applicationId "com.oxoo.spagreen"
+        applicationId "com.totaflix"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode 139
@@ -45,7 +45,7 @@ android {
     lintOptions {
         abortOnError false
     }
-    namespace 'com.oxoo.spagreen'
+    namespace 'com.totaflix'
 }
 
 dependencies {
