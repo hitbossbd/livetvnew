@@ -5,7 +5,7 @@ std::string SERVER_URL          = "https://totaflix.cyou/v/rest-api/";
 
 std::string API_KEY             = "8vzfc7bmr36h8nb5olrjppsd";
 std::string PURCHASE_CODE       = "*********************";
-std::string ONESIGNAL_APP_ID    = "*******************";
+std::string ONESIGNAL_APP_ID    = "a648daae-da56-459d-8a75-8582945bd13e";
 std::string TERMS_URL           = "https://oxoo.spagreen.net/demo/php/v13/terms/";
 
 
