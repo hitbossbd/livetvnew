@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.util.TypedValue;
 
-import com.oxoo.spagreen.BuildConfig;
+import com.totaflix.BuildConfig;
 import com.totaflix.R;
 
 import java.text.DateFormat;
