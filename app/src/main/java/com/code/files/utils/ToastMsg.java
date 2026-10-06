@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class ToastMsg {
 

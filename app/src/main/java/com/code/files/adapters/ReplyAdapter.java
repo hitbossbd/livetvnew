@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.mikhaellopez.circularimageview.CircularImageView;
 import com.code.files.models.GetCommentsModel;
 import com.squareup.picasso.Picasso;

@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.code.files.MainActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.fragments.HomeFragment;
 import com.code.files.fragments.LiveTvFragment;
 import com.code.files.fragments.MoviesFragment;

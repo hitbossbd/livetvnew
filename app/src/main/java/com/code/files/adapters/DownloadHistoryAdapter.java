@@ -12,7 +12,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.VideoFile;
 import com.code.files.utils.Tools;
 

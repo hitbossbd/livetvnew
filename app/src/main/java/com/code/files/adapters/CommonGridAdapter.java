@@ -15,7 +15,7 @@ import android.widget.TextView;
 import com.balysv.materialripple.MaterialRippleLayout;
 import com.code.files.DetailsActivity;
 import com.code.files.LoginActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 
 import com.code.files.utils.ItemAnimation;

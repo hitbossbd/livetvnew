@@ -26,7 +26,7 @@ import com.code.files.utils.PreferenceUtils;
 import com.facebook.shimmer.ShimmerFrameLayout;
 import com.code.files.AppConfig;
 import com.code.files.MainActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.adapters.CommonGridAdapter;
 import com.code.files.database.DatabaseHelper;
 import com.code.files.models.CommonModels;

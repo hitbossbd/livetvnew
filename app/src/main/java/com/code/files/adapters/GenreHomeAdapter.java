@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.code.files.ItemMovieActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 import com.code.files.models.GenreModel;
 import com.code.files.utils.ItemAnimation;

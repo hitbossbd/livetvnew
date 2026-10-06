@@ -17,7 +17,7 @@ import com.code.files.network.model.PasswordReset;
 import com.code.files.utils.RtlUtils;
 import com.code.files.utils.ToastMsg;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import retrofit2.Call;
 import retrofit2.Callback;

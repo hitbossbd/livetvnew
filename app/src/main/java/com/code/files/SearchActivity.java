@@ -20,7 +20,7 @@ import android.widget.TextView;
 import com.code.files.widget.RangeSeekBar;
 import com.crystal.crystalrangeseekbar.interfaces.OnRangeSeekbarChangeListener;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.utils.Constants;
 import com.code.files.utils.NetworkInst;
 import com.code.files.utils.RtlUtils;

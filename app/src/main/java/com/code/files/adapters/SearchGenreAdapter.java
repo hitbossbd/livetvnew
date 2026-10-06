@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.checkbox.MaterialCheckBox;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 
 import java.util.ArrayList;

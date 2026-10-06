@@ -73,7 +73,7 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.onesignal.OneSignal;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.utils.Constants;
 import com.code.files.utils.HelperUtils;
 import com.code.files.utils.PreferenceUtils;

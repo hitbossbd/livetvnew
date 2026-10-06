@@ -13,7 +13,7 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class PapalPaymentActivity extends AppCompatActivity {
 

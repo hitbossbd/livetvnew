@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.code.files.DetailsActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 
 import java.util.ArrayList;

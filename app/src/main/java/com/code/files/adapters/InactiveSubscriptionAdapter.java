@@ -10,7 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.model.InactiveSubscription;
 
 import java.util.List;

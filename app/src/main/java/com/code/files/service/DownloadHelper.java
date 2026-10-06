@@ -18,7 +18,7 @@ import android.widget.Toast;
 import com.code.files.database.downlaod.DownloadViewModel;
 import com.google.android.material.snackbar.Snackbar;
 import com.code.files.DownloadActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.DownloadInfo;
 import com.code.files.utils.Constants;
 import com.code.files.utils.ToastMsg;

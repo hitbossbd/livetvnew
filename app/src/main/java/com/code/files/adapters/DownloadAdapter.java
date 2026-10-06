@@ -12,7 +12,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.code.files.database.downlaod.DownloadViewModel;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 import com.code.files.service.DownloadHelper;
 

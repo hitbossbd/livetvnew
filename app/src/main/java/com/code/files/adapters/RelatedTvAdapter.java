@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.code.files.LoginActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.SubscriptionActivity;
 import com.code.files.models.CommonModels;
 import com.code.files.utils.ItemAnimation;

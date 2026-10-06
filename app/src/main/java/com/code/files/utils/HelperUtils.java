@@ -11,7 +11,7 @@ import android.util.Log;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.net.NetworkInterface;
 import java.net.SocketException;

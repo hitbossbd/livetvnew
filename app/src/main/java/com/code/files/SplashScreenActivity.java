@@ -41,7 +41,7 @@ import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.oxoo.spagreen.BuildConfig;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.RetrofitClient;
 import com.code.files.utils.HelperUtils;
 import com.code.files.utils.PreferenceUtils;

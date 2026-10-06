@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class PaidDialog extends Dialog implements
         android.view.View.OnClickListener{

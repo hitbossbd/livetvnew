@@ -7,7 +7,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class WebViewActivity extends AppCompatActivity {
 

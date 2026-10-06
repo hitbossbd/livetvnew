@@ -58,7 +58,7 @@ import com.code.files.ItemMovieActivity;
 import com.code.files.ItemSeriesActivity;
 import com.code.files.ItemTVActivity;
 import com.code.files.MainActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.home_content.PopularStars;
 import com.code.files.models.home_content.Slider;
 import com.code.files.models.CommonModels;

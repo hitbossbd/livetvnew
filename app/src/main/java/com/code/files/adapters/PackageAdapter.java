@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import com.code.files.network.model.Package;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.util.List;
 

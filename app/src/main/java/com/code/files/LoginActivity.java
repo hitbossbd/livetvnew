@@ -35,7 +35,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.RetrofitClient;
 import com.code.files.utils.Constants;
 import com.code.files.utils.RtlUtils;

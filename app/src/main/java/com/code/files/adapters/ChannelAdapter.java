@@ -13,7 +13,7 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.code.files.DetailsActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.model.Channel;
 import com.code.files.utils.ItemAnimation;
 import com.squareup.picasso.Picasso;

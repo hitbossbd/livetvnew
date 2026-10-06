@@ -21,7 +21,7 @@ import com.code.files.network.model.Package;
 import com.code.files.network.model.User;
 import com.code.files.network.model.config.PaymentConfig;
 import com.code.files.utils.ApiResources;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.utils.PreferenceUtils;
 import com.code.files.utils.ToastMsg;
 import com.razorpay.Checkout;

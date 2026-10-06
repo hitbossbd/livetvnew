@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import com.balysv.materialripple.MaterialRippleLayout;
 import com.code.files.DetailsActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.EpiModel;
 import com.squareup.picasso.Picasso;
 

@@ -29,7 +29,7 @@ import com.google.android.exoplayer2.trackselection.MappingTrackSelector.MappedT
 import com.google.android.exoplayer2.ui.TrackSelectionView;
 import com.google.android.exoplayer2.util.Assertions;
 import com.google.android.material.tabs.TabLayout;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

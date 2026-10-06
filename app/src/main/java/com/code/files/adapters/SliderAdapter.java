@@ -12,7 +12,7 @@ import com.github.islamkhsh.CardSliderAdapter;
 import com.makeramen.roundedimageview.RoundedImageView;
 import com.code.files.DetailsActivity;
 import com.code.files.LoginActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.WebViewActivity;
 import com.code.files.models.home_content.Slide;
 import com.code.files.utils.PreferenceUtils;

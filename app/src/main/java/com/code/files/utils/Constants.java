@@ -6,7 +6,7 @@ import android.os.Environment;
 import com.code.files.models.single_details.Country;
 import com.code.files.models.single_details.Genre;
 import com.code.files.network.model.TvCategory;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.io.File;
 import java.util.List;

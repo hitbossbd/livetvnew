@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.code.files.ItemMovieActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.CommonModels;
 import com.code.files.utils.ItemAnimation;
 import com.squareup.picasso.Picasso;

@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.balysv.materialripple.MaterialRippleLayout;
 import com.code.files.database.continueWatching.ContinueWatchingModel;
 import com.code.files.DetailsActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

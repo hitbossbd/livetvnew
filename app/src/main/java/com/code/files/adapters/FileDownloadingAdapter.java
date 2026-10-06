@@ -11,7 +11,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.DownloadInfo;
 
 import java.util.ArrayList;

@@ -37,7 +37,7 @@ import com.google.android.gms.ads.AdLoader;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.nativead.NativeAd;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.utils.PreferenceUtils;
 import com.squareup.picasso.Picasso;
 

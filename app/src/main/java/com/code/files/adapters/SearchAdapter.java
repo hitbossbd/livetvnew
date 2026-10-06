@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.balysv.materialripple.MaterialRippleLayout;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.model.CommonModel;
 import com.code.files.utils.ItemAnimation;
 import com.squareup.picasso.Picasso;

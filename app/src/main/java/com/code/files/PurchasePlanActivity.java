@@ -29,7 +29,7 @@ import com.code.files.network.model.AllPackage;
 import com.code.files.network.model.Package;
 import com.code.files.network.model.config.PaymentConfig;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.RetrofitClient;
 import com.code.files.utils.PreferenceUtils;
 import com.code.files.utils.ApiResources;

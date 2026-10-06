@@ -179,7 +179,7 @@ import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayerFragment;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.squareup.picasso.Picasso;
 
 import org.jetbrains.annotations.NotNull;

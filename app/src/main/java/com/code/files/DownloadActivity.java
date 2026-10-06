@@ -29,7 +29,7 @@ import com.code.files.models.VideoFile;
 import com.code.files.models.Work;
 import com.code.files.utils.Constants;
 import com.code.files.utils.RtlUtils;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.io.File;
 import java.io.IOException;

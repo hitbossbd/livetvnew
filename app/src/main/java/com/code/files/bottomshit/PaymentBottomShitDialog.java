@@ -15,7 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.code.files.StripePaymentActivity;
 import com.code.files.database.config.ConfigViewModel;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.database.DatabaseHelper;
 import com.code.files.network.model.config.PaymentConfig;
 

@@ -6,7 +6,7 @@ import android.content.res.Resources;
 import android.util.TypedValue;
 
 import com.oxoo.spagreen.BuildConfig;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.text.DateFormat;
 import java.text.ParseException;

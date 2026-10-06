@@ -17,7 +17,7 @@ import com.code.files.LoginActivity;
 import com.code.files.YoutubePlayerActivity2;
 import com.code.files.database.config.ConfigViewModel;
 import com.code.files.utils.SubscriptionDialog;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.SubscriptionActivity;
 import com.code.files.models.CommonModels;
 import com.code.files.utils.ItemAnimation;

@@ -36,7 +36,7 @@ import com.code.files.utils.NetworkInst;
 import com.code.files.utils.PreferenceUtils;
 import com.code.files.utils.RtlUtils;
 import com.facebook.shimmer.ShimmerFrameLayout;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.util.ArrayList;
 import java.util.List;

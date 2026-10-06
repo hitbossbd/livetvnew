@@ -2,7 +2,7 @@ package com.code.files.utils.parser;
 
 import android.content.Context;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.util.ArrayList;
 import java.util.List;

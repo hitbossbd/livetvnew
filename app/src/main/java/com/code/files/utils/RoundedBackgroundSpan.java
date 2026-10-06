@@ -6,7 +6,7 @@ import android.graphics.Paint;
 import android.graphics.RectF;
 import android.text.style.ReplacementSpan;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class RoundedBackgroundSpan extends ReplacementSpan {
 

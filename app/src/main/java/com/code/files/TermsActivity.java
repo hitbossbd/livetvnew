@@ -17,7 +17,7 @@ import android.widget.ProgressBar;
 
 import com.code.files.utils.ApiResources;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 public class TermsActivity extends AppCompatActivity {
 

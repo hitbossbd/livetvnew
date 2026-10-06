@@ -27,7 +27,7 @@ import com.code.files.utils.ToastMsg;
 import com.code.files.utils.Tools;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;

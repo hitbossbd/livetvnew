@@ -14,7 +14,7 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.code.files.database.downlaod.DownloadViewModel;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.single_details.DownloadLink;
 import com.code.files.service.DownloadHelper;
 import com.code.files.utils.ItemAnimation;

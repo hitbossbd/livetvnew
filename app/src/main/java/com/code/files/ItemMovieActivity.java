@@ -36,7 +36,7 @@ import com.code.files.utils.ads.BannerAds;
 import com.code.files.utils.ads.PopUpAds;
 import com.facebook.shimmer.ShimmerFrameLayout;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 
 import java.util.ArrayList;
 import java.util.List;

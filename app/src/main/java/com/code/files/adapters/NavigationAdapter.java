@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.models.NavigationModel;
 
 import java.util.ArrayList;

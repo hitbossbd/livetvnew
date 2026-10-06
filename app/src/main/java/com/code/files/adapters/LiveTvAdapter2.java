@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.code.files.DetailsActivity;
-import com.oxoo.spagreen.R;
+import com.totaflix.R;
 import com.code.files.network.model.TvModel;
 import com.code.files.utils.ItemAnimation;
 import com.squareup.picasso.Picasso;
